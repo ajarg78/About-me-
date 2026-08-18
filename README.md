@@ -32,10 +32,10 @@ Node.js, Express.js, REST APIs, JWT Authentication
 MongoDB, Mongoose
 
 **Programming:**  
-JavaScript, Python, C++
+JavaScript, Python
 
 **Cybersecurity & Networking:**  
-Kali Linux, Nmap, Wireshark, Cisco CCNA, Network Security
+Kali Linux, Nmap, Wireshark, Cisco CCNA, Network Security,zap,burp suite
 
 **AI & Automation:**  
 Python, OpenAI API, AI Automation
